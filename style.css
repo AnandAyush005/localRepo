@@ -1,0 +1,14 @@
+html{
+    background-color: black;
+    color:gold;
+    
+}
+
+p{
+    width: 80%;
+    height:80%;
+    border: 2px solid white;
+    margin:auto;
+    padding: 20px;
+
+}
